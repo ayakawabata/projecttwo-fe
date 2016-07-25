@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(){
 console.log('Project2 loaded');
 
-  var url = 'http://localhost:3000';
+  var url = 'https://frozen-woodland-57951.herokuapp.com';
   var flashcard  = [];
 // search words by category
   $('#submit').click(function(e) {
