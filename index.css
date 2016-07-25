@@ -1,0 +1,29 @@
+body {
+  background: url("./school.gif");
+  text-align: center;
+  font-family: sans-serif;
+}
+#category {
+  padding: 20px;
+  width: 500px;
+  height: 30px;
+  border: solid 3px black;
+  text-align: center;
+  font-size: 30px;
+}
+#flashcard {
+  background-color: white;
+  font-size: 20px;
+  text-align: center;
+}
+#savedwords {
+  background-color: white;
+  font-size: 20px;
+  text-align: center;
+
+}
+#all_saved {
+  background-color: white;
+  font-size: 20px;
+  text-align: center;
+}
